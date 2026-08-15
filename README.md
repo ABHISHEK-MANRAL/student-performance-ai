@@ -103,11 +103,17 @@ The machine learning model uses the following student features:
 ### 2. Student Prediction
 ![Student Prediction](screenshots/02-prediction.png)
 
-### 3. Students
-![Students](screenshots/03-students.png)
+### 3. Student Prediction Result
+![Prediction Result](screenshots/03-prediction.png)
 
-### 4. Student Analytics
-![Student Analytics](screenshots/04-analytics.png)
+### 4. Students
+![Students](screenshots/04-students.png)
 
-### 5. Settings
-![Settings](screenshots/05-settings.png)
+### 5. Student Analytics
+![Student Analytics](screenshots/05-analytics.png)
+
+### 6. Analytics Result
+![Analytics Result](screenshots/06-analytics.png)
+
+### 7. Settings
+![Settings](screenshots/07-settings.png)
