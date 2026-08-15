@@ -1,16 +1,97 @@
-# React + Vite
+# 🎓 Student Performance AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered student performance prediction and analytics system that helps analyze academic performance and predict a student's final performance score based on multiple academic and behavioral factors.
 
-Currently, two official plugins are available:
+## 📌 Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Student Performance AI is a web-based application designed to analyze student performance and provide AI-based predictions.
 
-## React Compiler
+The system takes important student factors such as attendance, previous examination scores, assignments, internal assessment, study hours, class participation, and sleep hours to predict the student's final performance.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The application also provides a dashboard for viewing student statistics and individual performance analytics.
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📊 Interactive student performance dashboard
+- 🧠 AI-based student performance prediction
+- 👥 Student records management
+- 📈 Individual student analytics
+- 📚 Academic performance analysis
+- 🎯 Student habits and engagement analysis
+- 📋 Performance categories:
+  - Excellent
+  - Good
+  - Average
+  - Needs Improvement
+- 🔄 Automatic dashboard data refresh
+- ⚙️ Simple settings panel
+- 📱 Responsive user interface
+
+## 🛠️ Technology Stack
+
+### Frontend
+- React
+- Vite
+- JavaScript
+- CSS
+- Recharts
+
+### Backend
+- Python
+- Flask
+- Flask-CORS
+
+### Machine Learning & Data
+- Scikit-learn
+- Pandas
+- Joblib
+- CSV Dataset
+- Trained Machine Learning Model
+
+## 📂 Project Structure
+
+```text
+student-performance-ai/
+│
+├── ml/
+│   ├── app.py
+│   ├── train_model.py
+│   ├── student_performance_3000.csv
+│   └── student_performance_model.pkl
+│
+├── public/
+│
+├── src/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+│
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── eslint.config.js
+├── index.html
+└── README.md
+
+## 📊 Prediction Factors
+
+The machine learning model uses the following student features:
+
+- Attendance Percentage
+- Previous Exam Score
+- Previous Semester Score
+- Assignment Score
+- Internal Assessment Score
+- Study Hours per Day
+- Class Participation Percentage
+- Sleep Hours per Day
+
+## 🎯 Performance Categories
+| Score    | Category          |
+| -------- | ----------------- |
+| 85–100   | Excellent         |
+| 70–84    | Good              |
+| 50–69    | Average           |
+| Below 50 | Needs Improvement |
+
