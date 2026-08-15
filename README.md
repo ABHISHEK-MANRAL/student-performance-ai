@@ -73,6 +73,8 @@ student-performance-ai/
 ├── eslint.config.js
 ├── index.html
 └── README.md
+```
+
 
 ## 📊 Prediction Factors
 
