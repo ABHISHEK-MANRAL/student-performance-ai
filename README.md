@@ -98,22 +98,22 @@ The machine learning model uses the following student features:
 ## 📸 Screenshots
 
 ### 1. Dashboard
-![Dashboard](screenshots/01-dashboard.png)
+<img src="./screenshots/01-dashboard.png" alt="Dashboard" width="100%">
 
 ### 2. Student Prediction
-![Student Prediction](screenshots/02-prediction.png)
+<img src="./screenshots/02-prediction.png" alt="Student Prediction" width="100%">
 
 ### 3. Student Prediction Result
-![Prediction Result](screenshots/03-prediction.png)
+<img src="./screenshots/03-prediction.png" alt="Prediction Result" width="100%">
 
 ### 4. Students
-![Students](screenshots/04-students.png)
+<img src="./screenshots/04-students.png" alt="Students" width="100%">
 
 ### 5. Student Analytics
-![Student Analytics](screenshots/05-analytics.png)
+<img src="./screenshots/05-analytics.png" alt="Student Analytics" width="100%">
 
 ### 6. Analytics Result
-![Analytics Result](screenshots/06-analytics.png)
+<img src="./screenshots/06-analytics.png" alt="Analytics Result" width="100%">
 
 ### 7. Settings
-![Settings](screenshots/07-settings.png)
+<img src="./screenshots/07-settings.png" alt="Settings" width="100%">
