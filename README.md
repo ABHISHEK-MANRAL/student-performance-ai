@@ -95,3 +95,19 @@ The machine learning model uses the following student features:
 | 50–69    | Average           |
 | Below 50 | Needs Improvement |
 
+## 📸 Screenshots
+
+### 1. Dashboard
+![Dashboard](screenshots/01-dashboard.png)
+
+### 2. Student Prediction
+![Student Prediction](screenshots/02-prediction.png)
+
+### 3. Students
+![Students](screenshots/03-students.png)
+
+### 4. Student Analytics
+![Student Analytics](screenshots/04-analytics.png)
+
+### 5. Settings
+![Settings](screenshots/05-settings.png)
