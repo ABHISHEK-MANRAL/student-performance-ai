@@ -20,7 +20,7 @@ body {
 
 .sidebar {
   width: 260px;
-  min-height: 100vh;
+  height: 100vh;
   background: #09224a;
   color: white;
   display: flex;
@@ -29,6 +29,7 @@ body {
   left: 0;
   top: 0;
   bottom: 0;
+  box-sizing: border-box;
 }
 
 .logo-section {
